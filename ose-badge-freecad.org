@@ -3,6 +3,11 @@
 - requires FreeCAD 0.16 https://github.com/FreeCAD/FreeCAD/releases/tag/0.16
 - can be seen as Feature-on-a-Feature-on-a-Feature exercise
 - 1 minute
+* YouTube publish
+https://youtu.be/v53Uw9qbmwg
+- YT accepts .mkv (perhaps because WebM is a subset?)
+- YT accepts H.265
+- Added a CC BY-SA license
 * Q&A
 ** 1. What were the videos that you studied to learn FreeCAD? Please include links.
 I have been learning FreeCAD with version 0.19. I have primarily used
