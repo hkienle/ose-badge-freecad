@@ -4,3 +4,28 @@
 - requires FreeCAD 0.16 https://github.com/FreeCAD/FreeCAD/releases/tag/0.16
 - can be seen as Feature-on-a-Feature-on-a-Feature exercise
 - 1 minute
+
+* Q&A
+** 1. What were the videos that you studied to learn FreeCAD? Please include links.
+I have been learning FreeCAD with version 0.19. I have primarily used
+the offical Wiki documentation. Some resources I collected:
+- flowwies corner https://www.youtube.com/channel/UCyGwIx_PzM_zE3FKhZRbygQ
+- FreeCAD Tutorial Part5 More 2D Constraints https://www.youtube.com/watch?v=KvHJdNfl0TU
+- workflow https://wiki.freecadweb.org/Feature_editing#Body_building_workflow
+- tutorial chrisb (PDF) https://owncloud.gwdg.de/index.php/s/eZisrfTTCCjDEd9/download
+- tutorial (triangles, golden ration, etc.) https://wiki.freecadweb.org/Sketcher_Tutorial
+- best practice for a square https://wiki.freecadweb.org/Sketcher_Micro_Tutorial_-_Constraint_Practices
+- major change from 0.16 -> 0.17 https://wiki.freecadweb.org/PartDesign_Legacy (page deleted!)
+** Was Lesson 3A and 3B from FreeCAD 101 sufficient? How could we improve the lessons so you can get the FreeCAD Badge faster?
+I did not watch them (before doing the exercise). The vidoes are a bit
+rough and a bit lengthy, but nicely illustrate the hands-on approach that OSE takes.
+** How long did it take you to install FreeCAD 16?
+With AppImage, it is trivial. (But I am used to doing that. Biggest
+hurdle on Linux is to make the file executable, I imagine.)
+* How long did it take you to learn the skill to perform the Feature-on-a-Feature Exercise?
+Cannot say, because I had some experience with FreeCAD 0.19
+before. The major pain for me was the regression to 0.16:
+- few shortcut keys and different pull-down menus
+- less consistent sketcher interactions
+- external geometry tool in the sketcher is more limited (it took me quite a while to find out what's working)
+- occasional crashes
