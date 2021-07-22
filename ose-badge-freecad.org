@@ -1,10 +1,8 @@
-
-* TODO FreeCAD badge https://wiki.opensourceecology.org/wiki/FreeCAD_Badge
+* DONE FreeCAD badge https://wiki.opensourceecology.org/wiki/FreeCAD_Badge
 - "The FreeCAD Badge certifies a basic proficiency of the technical skill required for CAD design."
 - requires FreeCAD 0.16 https://github.com/FreeCAD/FreeCAD/releases/tag/0.16
 - can be seen as Feature-on-a-Feature-on-a-Feature exercise
 - 1 minute
-
 * Q&A
 ** 1. What were the videos that you studied to learn FreeCAD? Please include links.
 I have been learning FreeCAD with version 0.19. I have primarily used
