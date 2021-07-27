@@ -1,8 +1,14 @@
 * DONE FreeCAD badge https://wiki.opensourceecology.org/wiki/FreeCAD_Badge
+- worklog entry https://wiki.opensourceecology.org/wiki/Kienle_Log#FreeCAD_Badge_submission
 - "The FreeCAD Badge certifies a basic proficiency of the technical skill required for CAD design."
 - requires FreeCAD 0.16 https://github.com/FreeCAD/FreeCAD/releases/tag/0.16
 - can be seen as Feature-on-a-Feature-on-a-Feature exercise
 - 1 minute
+* Badge
+- modify with Inkscape, export to PNG
+- source [[file:OSE free cad certified v2-1a.svg]] from https://drive.google.com/file/d/0B7BoAHjFYDFzMTl3VFhJVDdnRzQ/view?usp=sharing#
+  - /How to modify the FreeCAD certified icon in Inkscape/ https://www.youtube.com/watch?v=ypwPDlqhjzk
+- simplified version that is easier to edit file:badge-freecad-simplified.svg
 * YouTube publish
 https://youtu.be/v53Uw9qbmwg
 - YT accepts .mkv (perhaps because WebM is a subset?)
