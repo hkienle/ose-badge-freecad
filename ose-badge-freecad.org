@@ -9,6 +9,7 @@
 - source [[file:OSE free cad certified v2-1a.svg]] from https://drive.google.com/file/d/0B7BoAHjFYDFzMTl3VFhJVDdnRzQ/view?usp=sharing#
   - /How to modify the FreeCAD certified icon in Inkscape/ https://www.youtube.com/watch?v=ypwPDlqhjzk
 - simplified version that is easier to edit file:badge-freecad-simplified.svg
+  - Wiki entry https://wiki.opensourceecology.org/wiki/OSE_Badges#Speedy_badge_creation
 * DONE YouTube publish
 https://youtu.be/v53Uw9qbmwg
 - YT accepts .mkv (perhaps because WebM is a subset?)
