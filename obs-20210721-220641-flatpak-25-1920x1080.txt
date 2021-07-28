@@ -1,0 +1,5 @@
+obs-20210721-220641-flatpak-25-1920x1080.mkv
+  nb_streams=3|duration=0:01:21.000000|size=22.301227 Mibyte|bit_rate=2.309583 Mbit/s|tag:ENCODER=Lavf58.45.100
+  codec_name=h264|profile=High|level=40|avg_frame_rate=25/1|bit_rate=N/A|nb_frames=N/A
+  codec_name=aac|profile=LC|sample_rate=48 KHz|avg_frame_rate=0/0|bit_rate=N/A
+codec_name=aac|profile=LC|sample_rate=48 KHz|avg_frame_rate=0/0|bit_rate=N/A

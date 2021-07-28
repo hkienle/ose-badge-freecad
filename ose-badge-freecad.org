@@ -1,24 +1,30 @@
-* DONE FreeCAD badge https://wiki.opensourceecology.org/wiki/FreeCAD_Badge
+* FreeCAD badge https://wiki.opensourceecology.org/wiki/FreeCAD_Badge
 - worklog entry https://wiki.opensourceecology.org/wiki/Kienle_Log#FreeCAD_Badge_submission
 - "The FreeCAD Badge certifies a basic proficiency of the technical skill required for CAD design."
 - requires FreeCAD 0.16 https://github.com/FreeCAD/FreeCAD/releases/tag/0.16
 - can be seen as Feature-on-a-Feature-on-a-Feature exercise
 - 1 minute
-* Badge
+* TODO Badge
 - modify with Inkscape, export to PNG
 - source [[file:OSE free cad certified v2-1a.svg]] from https://drive.google.com/file/d/0B7BoAHjFYDFzMTl3VFhJVDdnRzQ/view?usp=sharing#
   - /How to modify the FreeCAD certified icon in Inkscape/ https://www.youtube.com/watch?v=ypwPDlqhjzk
 - simplified version that is easier to edit file:badge-freecad-simplified.svg
-* YouTube publish
+* DONE YouTube publish
 https://youtu.be/v53Uw9qbmwg
 - YT accepts .mkv (perhaps because WebM is a subset?)
 - YT accepts H.265
 - Added a CC BY-SA license
-* OBS Studio recording
-- flatpack 27.0.1 https://flathub.org/apps/details/com.obsproject.Studio
-- Librem 13v4
-  - profile file:./zoomadvanced108025vbrext_mic
-  - scene collection file:./windowcameramic_ext.json
+* DONE OBS Studio recording
+- original recording file:obs-20210721-220641-flatpak-25-1920x1080.mkv
+  - video info file:obs-20210721-220641-flatpak-25-1920x1080.txt
+- recorder: flatpack 27.0.1 https://flathub.org/apps/details/com.obsproject.Studio
+- hardware setup
+  - Librem 13v4
+    - profile file:./zoomadvanced108025vbrext_mic
+    - scene collection file:./windowcameramic_ext.json
+  - external mic
+    - Marshall headset
+    - Sharkoon Mobile DAC file:~/x/m-audio-sharkoon.org
 * Q&A
 ** 1. What were the videos that you studied to learn FreeCAD? Please include links.
 I have been learning FreeCAD with version 0.19. I have primarily used
